@@ -1,0 +1,6 @@
+@expotec_driver_HostAddress = http://localhost:5091
+
+GET {{expotec_driver_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
